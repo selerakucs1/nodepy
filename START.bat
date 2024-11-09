@@ -1,0 +1,2 @@
+python nodepay.py
+pause
